@@ -5,7 +5,7 @@
 ---
 ## Description
 
-
+The task is to modify starter code for a note taker app. The app should be able to write and save notes input by the user.
   
 
 ---
@@ -22,21 +22,21 @@
 ---
 ## Installation
 
-
+Navigate to the Note Taker Deployment on Heroku link below.
 
 - [Note Taker Git Hub Repository](https://github.com/areitan/Note_Taker)
-- [Note Taker Deployment on Heroku]()
+- [Note Taker Deployment on Heroku](https://git.heroku.com/safe-refuge-98903.git)
 
 
 ---
 ## Usage
 
+After navigating to the deployed application, the user should be able to click on the "Get Started" button which will direct them to the note taker. Here they should be able to enter new notes and save them. When returning to the app later, the previous notes should still be available.
 
 
-
-### Team Profile Mock-ups Provided
-![Team Profile Mock-up Screen 1](/assets/11-express-homework-demo-01.png)
-![Team Profile Mock-up Screen 2](/assets/11-express-homework-demo-02.png)
+### Note Taker Mock-ups Provided
+![Note Taker Mock-up Screen 1](/assets/11-express-homework-demo-01.png)
+![Note Taker Mock-up Screen 2](/assets/11-express-homework-demo-02.png)
 
 
 
@@ -44,9 +44,8 @@
 ---
 ## Tests
 
-Unit tests are preformed using ```jest.js``` on this application by running ```npm run test``` in a bash terminal. 30 tests to verify for array properties and methods are preformed and all pass.
+Unit tests are preformed manually, with manual entry of input.
 
-![Test Success](/assets/images/9_test_success.png)
 
 --- 
 ## Contribute
