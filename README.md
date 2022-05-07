@@ -24,8 +24,8 @@
 
 
 
-- [Note Taker Git Hub Repository](https://github.com/areitan/Team_Profile_Generator)
-- [Note Taker Deployment](https://drive.google.com/file/d/1g5jCev9P6KtSrnee9WpiLV1jh25YpQS9/view)
+- [Note Taker Git Hub Repository](https://github.com/areitan/Note_Taker)
+- [Note Taker Deployment on Heroku]()
 
 
 ---
