@@ -35,21 +35,21 @@ After navigating to the deployed application, the user should be able to click o
 
 
 ### Note Taker Mock-ups Provided
-![Note Taker Mock-up Screen 1](/assets/11-express-homework-demo-01.png)
-![Note Taker Mock-up Screen 2](/assets/11-express-homework-demo-02.png)
+![Note Taker Mock-up Screen 1](/Assets/11-express-homework-demo-01.png)
+![Note Taker Mock-up Screen 2](/Assets/11-express-homework-demo-02.png)
 
 
 ### Note Taker Initial Page
-![Note Taker Initial Page](/assets/1_safe-refuge-98903.herokuapp.com.png)
+![Note Taker Initial Page](/Assets/1_safe-refuge-98903.herokuapp.com.png)
 
 ### Note Taker Notes Page
-![Note Taker Notes Page](/assets/2_safe-refuge-98903.herokuapp.com_notes.png)
+![Note Taker Notes Page](/Assets/2_safe-refuge-98903.herokuapp.com_notes.png)
 
 ### Note Taker Notes Page Showing Input
-![Note Taker Notes Page Showing Input](/assets/3_safe-refuge-98903.herokuapp.com_notes.png)
+![Note Taker Notes Page Showing Input](/Assets/3_safe-refuge-98903.herokuapp.com_notes.png)
 
 ### Note Taker Notes Page Showing Saved Input
-![Note Taker Notes Page Showing Saved Input](/assets/4_safe-refuge-98903.herokuapp.com_notes.png)
+![Note Taker Notes Page Showing Saved Input](/Assets/4_safe-refuge-98903.herokuapp.com_notes.png)
 
 
 ---
