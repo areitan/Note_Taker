@@ -41,6 +41,13 @@ After navigating to the deployed application, the user should be able to click o
 ![Note Taker Mock-up Screen 2](/assets/11-express-homework-demo-02.png)
 
 
+### Note Taker Initial Page
+![Note Taker Initial Page](/assets/safe-refuge-98903.herokuapp.com_index.html.png)
+
+### Note Taker Input Page
+![Note Taker Input Page](/assets/safe-refuge-98903.herokuapp.com_notes.html.png)
+
+
 
 
 ---

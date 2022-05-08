@@ -32,7 +32,9 @@ app.get('/notes', (req, res) =>
 
 
 // redirect for invalid requests?
-
+// app.get('*', (req, res) =>
+//   res.sendFile(path.join(__dirname, 'public/pages/404.html'))
+// );
 
 // port is listening
 app.listen(PORT, () =>
