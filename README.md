@@ -64,7 +64,7 @@ In order to create this application, I used the skills I have at the moment. I a
 ---
 ## Credits
 
-- [W3 Schools: HTML Links](https://www.w3schools.com/html/html_links.asp)
+- [Heroku Dev Center: Deploying with Git](https://devcenter.heroku.com/articles/git#create-a-heroku-remote)
 
 - Trilogy Education Services, LLC for the starter code and example code throughout the week 11 exercises and example mock-up.
 - Chris Baird, my tutor
