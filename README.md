@@ -40,16 +40,16 @@ After navigating to the deployed application, the user should be able to click o
 
 
 ### Note Taker Initial Page
-![Note Taker Input Page](/assets/1_safe-refuge-98903.herokuapp.com.png)
+![Note Taker Initial Page](/assets/1_safe-refuge-98903.herokuapp.com.png)
 
 ### Note Taker Notes Page
-![Note Taker Input Page](/assets/2_safe-refuge-98903.herokuapp.com_notes.png)
+![Note Taker Notes Page](/assets/2_safe-refuge-98903.herokuapp.com_notes.png)
 
 ### Note Taker Notes Page Showing Input
-![Note Taker Input Page](/assets/3_safe-refuge-98903.herokuapp.com_notes.png)
+![Note Taker Notes Page Showing Input](/assets/3_safe-refuge-98903.herokuapp.com_notes.png)
 
 ### Note Taker Notes Page Showing Saved Input
-![Note Taker Input Page](/assets/4_safe-refuge-98903.herokuapp.com_notes.png)
+![Note Taker Notes Page Showing Saved Input](/assets/4_safe-refuge-98903.herokuapp.com_notes.png)
 
 
 ---
