@@ -5,7 +5,7 @@
 ---
 ## Description
 
-The task is to modify starter code for a note taker app. The app should be able to write and save notes input by the user.
+The task is to modify starter code for a note taker app. The app should be able to write and save notes input by the user. This app uses ```Express.js``` for the backend.
   
 
 ---
@@ -25,7 +25,9 @@ The task is to modify starter code for a note taker app. The app should be able 
 Navigate to the Note Taker Deployment on Heroku link below.
 
 - [Note Taker Git Hub Repository](https://github.com/areitan/Note_Taker)
-- [Note Taker Deployment on Heroku](https://git.heroku.com/safe-refuge-98903.git)
+- [Note Taker Deployment on Heroku](https://safe-refuge-98903.herokuapp.com)
+
+
 
 
 ---
