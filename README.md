@@ -5,7 +5,7 @@
 ---
 ## Description
 
-The task is to modify starter code for a note taker app. The app should be able to write and save notes input by the user. This app uses ```Express.js``` for the backend.
+The task is to modify starter code for a note taker app. The app should be able to write and save notes input by the user. This app uses ```Express.js``` for the backend. To automatically add ID's to the notes, ```NPM UUID``` was imported and used.
   
 
 ---
@@ -28,8 +28,6 @@ Navigate to the Note Taker Deployment on Heroku link below.
 - [Note Taker Deployment on Heroku](https://safe-refuge-98903.herokuapp.com)
 
 
-
-
 ---
 ## Usage
 
@@ -42,18 +40,22 @@ After navigating to the deployed application, the user should be able to click o
 
 
 ### Note Taker Initial Page
-![Note Taker Initial Page](/assets/safe-refuge-98903.herokuapp.com_index.html.png)
+![Note Taker Input Page](/assets/1_safe-refuge-98903.herokuapp.com.png)
 
-### Note Taker Input Page
-![Note Taker Input Page](/assets/safe-refuge-98903.herokuapp.com_notes.html.png)
+### Note Taker Notes Page
+![Note Taker Input Page](/assets/2_safe-refuge-98903.herokuapp.com_notes.png)
 
+### Note Taker Notes Page Showing Input
+![Note Taker Input Page](/assets/3_safe-refuge-98903.herokuapp.com_notes.png)
 
+### Note Taker Notes Page Showing Saved Input
+![Note Taker Input Page](/assets/4_safe-refuge-98903.herokuapp.com_notes.png)
 
 
 ---
 ## Tests
 
-Unit tests are preformed manually, with manual entry of input.
+Unit tests are preformed manually, with manual entry of input and ```console.log()``` to verify routes and data.
 
 
 --- 
@@ -65,7 +67,8 @@ In order to create this application, I used the skills I have at the moment. I a
 ## Credits
 
 - [Heroku Dev Center: Deploying with Git](https://devcenter.heroku.com/articles/git#create-a-heroku-remote)
-
+- [Express: Express.js](https://expressjs.com/)
+- [NPM: UUID](https://www.npmjs.com/package/uuid)
 - Trilogy Education Services, LLC for the starter code and example code throughout the week 11 exercises and example mock-up.
 - Chris Baird, my tutor
 
